@@ -1,0 +1,53 @@
+#title
+{
+  font-family: 'Proza Libre', sans-serif;
+  font-size: 30px;
+  margin:20px;
+  text-align:center;
+}
+h2
+{
+  font-family: 'Proza Libre', sans-serif;
+  font-family: 'Trirong', serif;
+  text-decoration: underline;
+}
+ul
+{
+  font-family: 'Eczar', serif;
+  font-size: 24px;
+  list-style-type: square;
+
+}
+
+#html
+{
+  background-color: #264653;
+  height: auto;
+  width: 100%;
+  border: solid 5px;
+  border-radius: 5px 20px 20px 5px;
+  color: white;
+  text-align: center;
+}
+
+#css
+{
+  background-color: #2a9d8f;
+  height: auto;
+  width: 100%;
+  border: solid 5px;
+  border-radius: 5px 20px 20px 5px;
+  color: white;
+  text-align: center;
+}
+
+#js
+{
+  background-color: #e9c46a;
+  height: auto;
+  width: 100%;
+  border: solid 5px;
+  border-radius: 5px 20px 20px 5px;
+  color: white;
+  text-align: center;
+}
